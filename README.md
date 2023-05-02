@@ -1,5 +1,4 @@
 # LiverCare
 Tugas Mata Kuliah Probabilitas dan Statistika
 
-
-hai
+Tata Cara Instalasi Website ini bisa dilihat di Manual Book
