@@ -67,7 +67,7 @@
                 <p style="color: grey; text-align: right; margin-right: 50px;" class="my-4">Ditinjau oleh <a href="https://www.halodoc.com/cari-dokter/nama/dr-rizal-fadli" style="text-decoration: none; color: #19376D">dr. Rizal Fadli</a></p>
                 <!-- ALKPHOS -->
                 <div style="text-align: center;">
-                    <img src="../img/alkphos.webp" alt="" width="500px">
+                    <img src="../img/alkphos.jpg" alt="" width="500px">
                 </div>
             </div>
             <div class="col col-10 mt-5" style="border-right: 1px solid grey;">
@@ -108,7 +108,7 @@
 
                 <!-- SGOT -->
                 <div style="text-align: center;">
-                    <img src="../img/sgot.webp" alt="" width="500px">
+                    <img src="../img/sgot.jpg" alt="" width="500px">
                 </div>
                 <h3 style="font-weight: bold; " class="mt-4">Apa Itu Serum Glutamic Oxaloacetic Transaminase (SGOT)?</h3>
                 <p style="text-indent: 35px;" class="mt-4">
@@ -139,7 +139,7 @@
 
                 <!-- SGPT -->
                 <div style="text-align: center;" class="mt-5">
-                    <img src="../img/sgpt.webp" alt="" width="500px">
+                    <img src="../img/sgpt.jpg" alt="" width="500px">
                 </div>
                 <h3 style="font-weight: bold; " class="mt-4">Apa Itu Serum Glutamic Pyruvic Transaminase (SGPT)?</h3>
                 <p style="text-indent: 35px;" class="mt-4">
