@@ -60,5 +60,3 @@ LiverCare is a web-based application designed to analyze liver conditions using 
 
 - Navigate to the "Confusion Matrix" section to view the performance metrics of K-Means and Naive Bayes.
 - Use the "Check up List" to test new liver condition data and see predictions.
-
-Let me know if you need further adjustments!
